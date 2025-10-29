@@ -21,16 +21,19 @@
 
 <h2>📊 Featured Data Projects</h2>
 
-- **Bank Customer Churn Analysis**  
-  Identified churn drivers using Excel and SQL, designed a dashboard to visualize retention metrics, and proposed strategies for improvement.
+- **[Bank Customer Churn Analysis](https://medium.com/@PsalmmyKlef)**     
+Identified churn drivers using Excel and SQL, designed a dashboard to visualize retention metrics, and proposed strategies for improvement.
 
-- **Sales Performance Dashboard**  
+- **[Bike Store Sales Analysis and Performance Insights](https://medium.com/@PsalmmyKlef/fav-bike-store-f13db49c8b9c)**     
+Analyzed sales data using SQL Server and Excel, built an interactive dashboard to track revenue trends, top-performing products, and customer segments, and provided insights to guide inventory and marketing strategies.
+
+- **[Sales Performance Dashboard](https://medium.com/@PsalmmyKlef)**      
   Created a Power BI report highlighting regional trends, profitability patterns, and business growth opportunities.
 
-- **Employee Insights Dashboard**  
+- **[Employee Insights Dashboard](https://medium.com/@PsalmmyKlef)**     
   Analyzed HR datasets using Power BI and SQL to reveal insights into employee retention, demographics, and compensation trends.
 
-- **Inventory & Stock Tracker**  
+- **[Inventory & Stock Tracker](https://medium.com/@PsalmmyKlef)**     
   Built an Excel model to monitor inventory levels and turnover rates, reducing stockouts and optimizing supply chain performance.
 
 ---
