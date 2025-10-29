@@ -1,4 +1,5 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/04/63/28/92/1000_F_463289241_516dVni2CsaiKOXOiywJ2LrP94BiKXX1.jpg)
+![MasterHead](https://www.rasylva.id/images/landing/landing-bg.webp)
+
 
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">Data Analyst | Insight Storyteller | ICT Enthusiast</h3>
