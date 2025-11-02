@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=PsalmmyKlef&label=Profile%20views&color=0e75b6&style=flat" alt="PsalmmyKlef" />
 </p>
 
-- 🌱 I’m currently learning **Advanced SQL, Python**
+- 🌱 I’m currently learning **Advanced SQL and, Python**
 - 💬 Ask me about **Excel, Power BI, SQL, and Data Storytelling**
 - 🧠 I’m passionate about using data to uncover insights and support strategic decisions
 - ⚡ Fun fact: **Creative Contents!**
